@@ -1,3 +1,6 @@
 {
-    "cmake.sourceDirectory": "C:/Users/Suraj Sen/OneDrive - iitr.ac.in/Desktop/flutter_project/flutter_application_1/windows/flutter"
+    "cmake.sourceDirectory": "C:/Users/Suraj Sen/OneDrive - iitr.ac.in/Desktop/flutter_project/flutter_application_1/windows/flutter",
+    "files.associations": {
+        "iostream": "cpp"
+    }
 }
